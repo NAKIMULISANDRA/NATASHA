@@ -1,0 +1,41 @@
+.homebg{
+    background-image:url("../bcn14.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow-y: hidden;
+
+}
+.homebg3{
+    background-image:url("../bcn0.png");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height:100vh;
+}
+.homebg2{
+    background-image:url("../bc-0.jpg");
+      background-repeat:no-repeat;
+      background-position:center;
+      background-size:cover;
+      height:100vh;
+}
+
+.homebg5{
+    background-image:url("../bcn3.jpg");
+    background-repeat:no-repeat;
+    background-position:center; 
+    background-size:cover;
+    height: 100vh;
+}
+.homebg7{
+    background-image:url("../bcn40.jpg");
+    background-repeat:no-repeat;
+    background-position:center; 
+    background-size:cover;
+    height: 100vh;
+}
+.homebg8{
+    background-image:url("../background.jpg");
+}
